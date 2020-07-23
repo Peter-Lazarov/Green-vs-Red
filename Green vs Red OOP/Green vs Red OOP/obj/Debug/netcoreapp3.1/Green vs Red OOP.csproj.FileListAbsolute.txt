@@ -1,0 +1,13 @@
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.exe
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.deps.json
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.runtimeconfig.json
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.runtimeconfig.dev.json
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.dll
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\bin\Debug\netcoreapp3.1\Green vs Red OOP.pdb
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.csprojAssemblyReference.cache
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.AssemblyInfoInputs.cache
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.AssemblyInfo.cs
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.csproj.CoreCompileInputs.cache
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.dll
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.pdb
+D:\MentorMate\Green vs Red OOP\Green vs Red OOP\obj\Debug\netcoreapp3.1\Green vs Red OOP.genruntimeconfig.cache
